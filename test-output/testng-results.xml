@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="276006" started-at="2019-05-24T13:37:51Z" finished-at="2019-05-24T13:42:27Z">
+    <groups>
+    </groups>
+    <test name="Test2" duration-ms="105226" started-at="2019-05-24T13:37:51Z" finished-at="2019-05-24T13:39:36Z">
+      <class name="StepDefinition.SDefinition">
+        <test-method status="PASS" signature="Navigate_to_URL()[pri:0, instance:StepDefinition.SDefinition@25bbe1b6]" name="Navigate_to_URL" duration-ms="105086" started-at="2019-05-24T13:37:51Z" finished-at="2019-05-24T13:39:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Navigate_to_URL -->
+        <test-method status="PASS" signature="print_it_on_console()[pri:0, instance:StepDefinition.SDefinition@25bbe1b6]" name="print_it_on_console" duration-ms="125" started-at="2019-05-24T13:39:36Z" finished-at="2019-05-24T13:39:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print_it_on_console -->
+      </class> <!-- StepDefinition.SDefinition -->
+    </test> <!-- Test2 -->
+    <test name="Test" duration-ms="275286" started-at="2019-05-24T13:37:51Z" finished-at="2019-05-24T13:42:26Z">
+      <class name="StepDefinition.SDefinition">
+        <test-method status="PASS" signature="Navigate_to_URL()[pri:0, instance:StepDefinition.SDefinition@754ba872]" name="Navigate_to_URL" duration-ms="275193" started-at="2019-05-24T13:37:51Z" finished-at="2019-05-24T13:42:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Navigate_to_URL -->
+        <test-method status="PASS" signature="print_it_on_console()[pri:0, instance:StepDefinition.SDefinition@754ba872]" name="print_it_on_console" duration-ms="78" started-at="2019-05-24T13:42:26Z" finished-at="2019-05-24T13:42:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print_it_on_console -->
+      </class> <!-- StepDefinition.SDefinition -->
+    </test> <!-- Test -->
+    <test name="Test1" duration-ms="276006" started-at="2019-05-24T13:37:51Z" finished-at="2019-05-24T13:42:27Z">
+      <class name="StepDefinition.SDefinition">
+        <test-method status="PASS" signature="Navigate_to_URL()[pri:0, instance:StepDefinition.SDefinition@5cb9f472]" name="Navigate_to_URL" duration-ms="275756" started-at="2019-05-24T13:37:51Z" finished-at="2019-05-24T13:42:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Navigate_to_URL -->
+        <test-method status="PASS" signature="print_it_on_console()[pri:0, instance:StepDefinition.SDefinition@5cb9f472]" name="print_it_on_console" duration-ms="219" started-at="2019-05-24T13:42:27Z" finished-at="2019-05-24T13:42:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print_it_on_console -->
+      </class> <!-- StepDefinition.SDefinition -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
